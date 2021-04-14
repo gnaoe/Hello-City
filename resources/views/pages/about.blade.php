@@ -11,7 +11,7 @@
         <P><a href="/">Revenir à la page d'accueil.</a></P>
 
         <footer>
-            &copy; Copywright {{date('Y')}} &middot; <a href="/about-us">About Us</a>
+            &copy; Copywright {{date('Y')}} &middot;
         </footer>
 
     </body>
